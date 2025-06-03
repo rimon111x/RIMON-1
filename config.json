@@ -13,21 +13,21 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "𝐗𝐀𝐒𝐒 𝐁𝐎𝐓__/:;)🦈🫀",
+  "nickNameBot": "𝗥𝗜𝗠𝗢𝗡 𝐁𝐎𝐓__/:;)🦈🫀",
   "prefix": ".",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "100005193854879",
+    "100053522913961",
     "100085332887575",
     "61574008061899",
     "61557614587739",
     "61573734832201",
     "61556952104072",
     "100076178593063",
-    "100044327656712"
+    "100053522913961"
   ],
   "handlerReaction": {
     "enable": true,
@@ -38,14 +38,14 @@
     "61557614587739",
     "61573734832201",
     "61556952104072",
-    "100076178593063"
+    "100053522913961"
     ],
     "HandelReactionOthers": []
   },
   "whiteListMode": {
     "enable": true,
     "whiteListIds": ["100085332887575",
-"100005193854879",
+"100053522913961",
       "100076178593063"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
